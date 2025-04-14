@@ -1,4 +1,4 @@
-# Amazon_dashboard_web [https://amazon-sales-dashboard-anirudh.netlify.app/]([url](https://amazon-sales-dashboard-anirudh.netlify.app/))
+# Amazon_dashboard_web [[https://amazon-sales-dashboard-anirudh.netlify.app/](url)](url)
 This interactive dashboard provides a 360° view of Amazon's sales ecosystem, analyzing performance across product categories, geographical regions, and operational metrics. Designed to empower decision-makers with actionable insights that drive revenue growth and operational efficiency in the competitive e-commerce landscape.
 ![Report_Amazon_Anirudh_page-0001](https://github.com/user-attachments/assets/9d756728-1bde-43ec-ae9d-285d597a7f4a)
 Total Sales: This section presents the total sales figures for the products on Amazon, providing an overview of the overall revenue generated.
