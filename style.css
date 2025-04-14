@@ -1,0 +1,4 @@
+.blinkit-link-container {
+    left: 20px;
+    right: auto; /* Remove right positioning */
+}
